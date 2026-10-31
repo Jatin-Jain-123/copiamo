@@ -4,7 +4,7 @@ Your clipboard, with a memory: everything you copy, cut and paste on Windows, wi
 
 - Website: https://jatin-jain-123.github.io/copiamo/
 - Privacy policy: https://jatin-jain-123.github.io/copiamo/privacy.html
-- Microsoft Store: coming soon
+- Microsoft Store: https://apps.microsoft.com/detail/9PGR85X4F3GB
 - Support: jatin321jain@gmail.com
 
 This repository only hosts the public website. Copiamo is proprietary software.
